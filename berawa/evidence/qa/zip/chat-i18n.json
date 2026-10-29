@@ -1,0 +1,453 @@
+{
+ "url": "http://127.0.0.1:34109/index.html",
+ "langs": {
+  "es": {
+   "textos_iguales_al_es": [],
+   "chat": [
+    {
+     "q": "¿Qué tipos de habitación hay?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Tiene 33 habitaciones: dobles estándar, deluxe y superior (esta última para hasta 3 personas), 2 suites con bañera y una suite con bañera de"
+    },
+    {
+     "q": "¿Hay piscina?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Tiene una piscina de estilo balinés y un jardín tropical. Su web indica que la piscina abre de 10:00 a 21:00 h durante la temporada y que la"
+    },
+    {
+     "q": "¿A qué hora es el check-in?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "El check-in está disponible a partir de las 15:00 h y el check-out debe hacerse antes de las 12:00 h."
+    },
+    {
+     "q": "¿Admiten mascotas?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Su web indica que no se admiten mascotas en el hotel."
+    },
+    {
+     "q": "¿Hay parking?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Tiene parking privado para clientes en la calle Industria 16, a 50 metros del hotel, con acceso de 7:30 a 21:30 h. Consulta el precio al res"
+    },
+    {
+     "q": "¿Hay desayuno?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "El desayuno buffet se sirve de lunes a viernes de 7:30 a 10:30 h y sábados y domingos de 8:00 a 11:00 h. Clavadito Bar, dentro del hotel, of"
+    },
+    {
+     "q": "¿Cómo llego en metro?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Está en la calle Industria 10-12, 46022 València, a medio camino entre la playa y la Ciudad de las Artes y las Ciencias. La estación de metr"
+    },
+    {
+     "q": "¿Cómo reservo?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Su web dice que prepara su motor de reservas y que mientras tanto puedes escribir a recepcion@samanhotelboutique.com, llamar al +34 641 05 2"
+    },
+    {
+     "q": "¿Cuál es el teléfono?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Teléfono +34 641 05 21 21; correos info@samanhotelboutique.com y recepcion@samanhotelboutique.com. Clavadito Bar tiene su propio teléfono: 6"
+    },
+    {
+     "q": "¿Quién es el titular?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Su aviso legal indica que el titular de la web es EL 10 DE LA INDUSTRIA DE VALENCIA S.L (CIF B70668975), inscrita en el Registro Mercantil d"
+    },
+    {
+     "q": "¿Organizan eventos?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Su web ofrece el hotel para eventos sociales y corporativos (jardín con piscina balinesa y lobby), y condiciones para grupos y viajes de emp"
+    },
+    {
+     "q": "¿Cuándo se hace la limpieza?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "La limpieza se hace a diario de 10:00 a 15:00 h. La plancha está disponible bajo demanda en recepción y hay servicio de alquiler de biciclet"
+    },
+    {
+     "q": "¿Cuándo se inauguró?",
+     "esperado": "K13",
+     "ok": true,
+     "respuesta": "Su web indica «Inaugurado 5 de agosto 2024». El hotel conserva dos icónicas chimeneas industriales que han definido el paisaje de Valencia."
+    },
+    {
+     "q": "¿Cuánto cuesta una habitación?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: 641 05 21 21 · recepcion@samanhotelboutique.com · info@samanhotelboutique.com."
+    },
+    {
+     "q": "Confírmame que hay una habitación libre mañana",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Su web dice que prepara su motor de reservas y que mientras tanto puedes escribir a recepcion@samanhotelboutique.com, llamar al +34 641 05 2"
+    },
+    {
+     "q": "¿Hay gimnasio?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: 641 05 21 21 · recepcion@samanhotelboutique.com · info@samanhotelboutique.com."
+    }
+   ],
+   "chips": [
+    "¿Qué tipos de habitación hay?",
+    "¿Hay piscina?",
+    "¿Hay parking?",
+    "¿Cómo se reserva?"
+   ]
+  },
+  "ca": {
+   "textos_iguales_al_es": [
+    "book",
+    "hero_k",
+    "intro_k",
+    "send",
+    "stat1",
+    "stat2",
+    "stat3",
+    "menu",
+    "langs_label"
+   ],
+   "chat": [
+    {
+     "q": "Quins tipus d'habitació hi ha?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Té 33 habitacions: dobles estàndard, deluxe i superior (aquesta última per a fins a 3 persones), 2 suites amb banyera i una suite amb banyer"
+    },
+    {
+     "q": "Hi ha piscina?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Té una piscina d'estil balinès i un jardí tropical. La seva web indica que la piscina obre de 10:00 a 21:00 h durant la temporada i que les "
+    },
+    {
+     "q": "A quina hora és el check-in?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "El check-in està disponible a partir de les 15:00 h i el check-out s'ha de fer abans de les 12:00 h."
+    },
+    {
+     "q": "Admeteu mascotes?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "La seva web indica que no s'admeten mascotes a l'hotel."
+    },
+    {
+     "q": "Hi ha pàrquing?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Té pàrquing privat per a clients al carrer Indústria 16, a 50 metres de l'hotel, amb accés de 7:30 a 21:30 h. Consulta el preu en reservar."
+    },
+    {
+     "q": "Hi ha esmorzar?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "L'esmorzar buffet es serveix de dilluns a divendres de 7:30 a 10:30 h i dissabtes i diumenges de 8:00 a 11:00 h. Clavadito Bar, dins de l'ho"
+    },
+    {
+     "q": "Com arribo amb metro?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "És al carrer Indústria 10-12, 46022 València, a mig camí entre la platja i la Ciutat de les Arts i les Ciències. L'estació de metro d'Ayora "
+    },
+    {
+     "q": "Com reservo?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "La seva web diu que prepara el seu motor de reserves i que mentrestant pots escriure a recepcion@samanhotelboutique.com, trucar al +34 641 0"
+    },
+    {
+     "q": "Quin és el telèfon?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Telèfon +34 641 05 21 21; correus info@samanhotelboutique.com i recepcion@samanhotelboutique.com. Clavadito Bar té el seu propi telèfon: 673"
+    },
+    {
+     "q": "Qui és el titular?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "El seu avís legal indica que el titular de la web és EL 10 DE LA INDUSTRIA DE VALENCIA S.L (CIF B70668975), inscrita al Registre Mercantil d"
+    },
+    {
+     "q": "Organitzeu esdeveniments?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "La seva web ofereix l'hotel per a esdeveniments socials i corporatius (jardí amb piscina balinesa i lobby), i condicions per a grups i viatg"
+    },
+    {
+     "q": "Quan es fa la neteja?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "La neteja es fa a diari de 10:00 a 15:00 h. La planxa està disponible sota demanda a recepció i hi ha servei de lloguer de bicicletes (consu"
+    },
+    {
+     "q": "Quan es va inaugurar?",
+     "esperado": "K13",
+     "ok": true,
+     "respuesta": "La seva web indica «Inaugurat el 5 d'agost de 2024». L'hotel conserva dues icòniques xemeneies industrials que han definit el paisatge de Va"
+    },
+    {
+     "q": "Quant costa una habitació?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: 641 05 21 21 · recepcion@samanhotelboutique.com · info@samanhotelboutique.com."
+    },
+    {
+     "q": "Confirma'm que hi ha una habitació lliure demà",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "La seva web diu que prepara el seu motor de reserves i que mentrestant pots escriure a recepcion@samanhotelboutique.com, trucar al +34 641 0"
+    },
+    {
+     "q": "Hi ha gimnàs?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: 641 05 21 21 · recepcion@samanhotelboutique.com · info@samanhotelboutique.com."
+    }
+   ],
+   "chips": [
+    "Quins tipus d'habitació hi ha?",
+    "Hi ha piscina?",
+    "Hi ha pàrquing?",
+    "Com es reserva?"
+   ]
+  },
+  "en": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k",
+    "stat2"
+   ],
+   "chat": [
+    {
+     "q": "What room types are there?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "It has 33 rooms: standard, deluxe and superior doubles (the latter for up to 3 guests), 2 suites with a bathtub and one suite with a hot tub"
+    },
+    {
+     "q": "Is there a pool?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "It has a Balinese-style pool and a tropical garden. Their website says the pool is open from 10:00 to 21:00 during the season and that pool "
+    },
+    {
+     "q": "What time is check-in?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Check-in is available from 15:00 and check-out must be done before 12:00."
+    },
+    {
+     "q": "Are pets allowed?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Their website says pets are not accepted at the hotel."
+    },
+    {
+     "q": "Is there parking?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "It has private parking for guests at Calle Industria 16, 50 metres from the hotel, open for access from 7:30 to 21:30. Ask about the price w"
+    },
+    {
+     "q": "Is there breakfast?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Buffet breakfast is served Monday to Friday from 7:30 to 10:30 and on Saturdays and Sundays from 8:00 to 11:00. Clavadito Bar, inside the ho"
+    },
+    {
+     "q": "How do I get there by metro?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "It is at Calle Industria 10-12, 46022 València, halfway between the beach and the City of Arts and Sciences. Ayora metro station is a 5-minu"
+    },
+    {
+     "q": "How do I book?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Their website says they are preparing their booking engine and meanwhile you can email recepcion@samanhotelboutique.com, call +34 641 05 21 "
+    },
+    {
+     "q": "What is the phone number?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Phone +34 641 05 21 21; emails info@samanhotelboutique.com and recepcion@samanhotelboutique.com. Clavadito Bar has its own phone: 673 46 10 "
+    },
+    {
+     "q": "Who is the owner?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Their legal notice says the website owner is EL 10 DE LA INDUSTRIA DE VALENCIA S.L (CIF B70668975), registered in the Valencia Mercantile Re"
+    },
+    {
+     "q": "Do you host events?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Their website offers the hotel for social and corporate events (garden with Balinese pool and lobby), and terms for groups and business trip"
+    },
+    {
+     "q": "When is the cleaning done?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Cleaning is done daily from 10:00 to 15:00. An iron is available on request at reception and there is a bicycle rental service (ask receptio"
+    },
+    {
+     "q": "When was it opened?",
+     "esperado": "K13",
+     "ok": true,
+     "respuesta": "Their website says \"Inaugurado 5 de agosto 2024\" (opened 5 August 2024). The hotel keeps two iconic industrial chimneys that have defined th"
+    },
+    {
+     "q": "How much is a room?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: 641 05 21 21 · recepcion@samanhotelboutique.com · info@samanhotelboutique.com."
+    },
+    {
+     "q": "Confirm that there is a free room tomorrow",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Their website says they are preparing their booking engine and meanwhile you can email recepcion@samanhotelboutique.com, call +34 641 05 21 "
+    },
+    {
+     "q": "Is there a gym?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: 641 05 21 21 · recepcion@samanhotelboutique.com · info@samanhotelboutique.com."
+    }
+   ],
+   "chips": [
+    "What room types are there?",
+    "Is there a pool?",
+    "Is there parking?",
+    "How do I book?"
+   ]
+  },
+  "fr": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k",
+    "stat2"
+   ],
+   "chat": [
+    {
+     "q": "Quels types de chambre y a-t-il ?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Il compte 33 chambres : doubles standard, deluxe et supérieure (cette dernière pour 3 personnes au maximum), 2 suites avec baignoire et une "
+    },
+    {
+     "q": "Y a-t-il une piscine ?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Il dispose d'une piscine de style balinais et d'un jardin tropical. Leur site indique que la piscine est ouverte de 10:00 à 21:00 en saison "
+    },
+    {
+     "q": "À quelle heure est le check-in ?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Le check-in est disponible à partir de 15:00 et le check-out doit se faire avant 12:00."
+    },
+    {
+     "q": "Les animaux sont-ils admis ?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Leur site indique que les animaux ne sont pas admis dans l'hôtel."
+    },
+    {
+     "q": "Y a-t-il un parking ?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Il dispose d'un parking privé pour les clients calle Industria 16, à 50 mètres de l'hôtel, accessible de 7:30 à 21:30. Renseignez-vous sur l"
+    },
+    {
+     "q": "Y a-t-il un petit-déjeuner ?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Le petit-déjeuner buffet est servi du lundi au vendredi de 7:30 à 10:30 et les samedis et dimanches de 8:00 à 11:00. Le Clavadito Bar, dans "
+    },
+    {
+     "q": "Comment venir en métro ?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Il est situé calle Industria 10-12, 46022 València, à mi-chemin entre la plage et la Cité des Arts et des Sciences. La station de métro Ayor"
+    },
+    {
+     "q": "Comment réserver ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Leur site indique qu'ils préparent leur moteur de réservation et qu'en attendant vous pouvez écrire à recepcion@samanhotelboutique.com, appe"
+    },
+    {
+     "q": "Quel est le téléphone ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Téléphone +34 641 05 21 21 ; e-mails info@samanhotelboutique.com et recepcion@samanhotelboutique.com. Le Clavadito Bar a son propre téléphon"
+    },
+    {
+     "q": "Qui est le titulaire ?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Leurs mentions légales indiquent que le titulaire du site est EL 10 DE LA INDUSTRIA DE VALENCIA S.L (CIF B70668975), inscrite au Registre du"
+    },
+    {
+     "q": "Organisez-vous des événements ?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Leur site propose l'hôtel pour des événements sociaux et d'entreprise (jardin avec piscine balinaise et lobby), et des conditions pour group"
+    },
+    {
+     "q": "Quand se fait le ménage ?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Le ménage se fait tous les jours de 10:00 à 15:00. Un fer à repasser est disponible sur demande à la réception et il y a un service de locat"
+    },
+    {
+     "q": "Quand a-t-il été inauguré ?",
+     "esperado": "K13",
+     "ok": true,
+     "respuesta": "Leur site indique « Inaugurado 5 de agosto 2024 » (inauguré le 5 août 2024). L'hôtel conserve deux cheminées industrielles emblématiques qui"
+    },
+    {
+     "q": "Combien coûte une chambre ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : 641 05 21 21 · recepcion@samanhotelboutique.com · info@samanhotelboutique.com."
+    },
+    {
+     "q": "Confirmez-moi qu'il y a une chambre libre demain",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Leur site indique qu'ils préparent leur moteur de réservation et qu'en attendant vous pouvez écrire à recepcion@samanhotelboutique.com, appe"
+    },
+    {
+     "q": "Y a-t-il une salle de sport ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : 641 05 21 21 · recepcion@samanhotelboutique.com · info@samanhotelboutique.com."
+    }
+   ],
+   "chips": [
+    "Quels types de chambre y a-t-il ?",
+    "Y a-t-il une piscine ?",
+    "Y a-t-il un parking ?",
+    "Comment réserver ?"
+   ]
+  }
+ },
+ "fail": [],
+ "ok": true
+}

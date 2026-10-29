@@ -1,0 +1,30 @@
+{
+ "schema": "berawa-captacion/1",
+ "negocio": "saman-hotel-boutique-valencia",
+ "maps": {
+  "fecha": "2026-10-29T02:00:56+01:00",
+  "estado": "LEIDA",
+  "ficha": "SAMAN HOTEL BOUTIQUE",
+  "nota": 4.6,
+  "coincide": {
+   "tel": true,
+   "web": true
+  },
+  "url": "https://www.google.com/maps/place/SAMAN+HOTEL+BOUTIQUE/@39.4639818,-0.343592,17z/data=!3m1!5s0xd6048f317b00089:0x64d17ecabbf6ce50!4m9!3m8!1s0xd6049ae6c2720dd:0x8cd5f6a4f4d2780c!5m2!4m1!1i2!8m2!3d39.4639818!4d-0.343592!16s%2Fg%2F11y6pfgvlv",
+  "herramienta": "factory/webfactory/maps_rating.py"
+ },
+ "web_filtro": {
+  "fecha": "2026-10-29T02:00:56+01:00",
+  "veredicto": "MEJORABLE",
+  "informe_velocidad": "LCP > 4 s",
+  "herramienta": "filtro_mala_web.py (Lighthouse movil, mediana de 3 pasadas)"
+ },
+ "titular": {
+  "razon_social": "EL 10 DE LA INDUSTRIA DE VALENCIA S.L",
+  "cif": "B70668975",
+  "fuente": "https://samanhotelboutique.com/aviso-legal/",
+  "persona_juridica": true,
+  "cadena": false,
+  "nota": "Aviso legal: titular EL 10 DE LA INDUSTRIA DE VALENCIA S.L (CIF B70668975), un unico hotel; sin vinculo a cadena o grupo en su web"
+ }
+}
