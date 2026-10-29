@@ -1,0 +1,69 @@
+{
+ "schema": "berawa-sources/1",
+ "site": "https://samanhotelboutique.com/",
+ "read_at": "2026-10-29T02:07:00+01:00",
+ "method": "Texto visible de cada pagina leido de la web publica del negocio en la fecha indicada (fetch_sources.py) y guardado en berawa/evidence/source-text.json; las citas del chatbot se comprueban contra ese texto con check_kb.py.",
+ "pages": [
+  {
+   "url": "https://samanhotelboutique.com/",
+   "sha256": "9490d60dca726da023440f1a18e8c0fa270c0a387d942933db0417c737f342b4",
+   "chars": 3688
+  },
+  {
+   "url": "https://samanhotelboutique.com/aviso-legal/",
+   "sha256": "a03edcc08d2def0d3aa3f08e4b4ee3e5cfe8ea471c0b7f1a5bbfb4005b3b721b",
+   "chars": 11723
+  },
+  {
+   "url": "https://samanhotelboutique.com/clavaditobar/",
+   "sha256": "673e2a04a8a7806a8962d22f0490973a51ebe901f9add2f17c044295eae8367d",
+   "chars": 3899
+  },
+  {
+   "url": "https://samanhotelboutique.com/empresas/",
+   "sha256": "f85262a7da10fc9af221a80c21dd447aff893ef59b5535160b23ffa3c55bdfab",
+   "chars": 3471
+  },
+  {
+   "url": "https://samanhotelboutique.com/eventos/",
+   "sha256": "a7c2708b3c6851792a576a4bd191128574ee3dd9566e0463fbee4825a919b61e",
+   "chars": 2765
+  },
+  {
+   "url": "https://samanhotelboutique.com/faq/",
+   "sha256": "0b9a176b5c7a243b62f0ea176272288fcce503e12dd93d632377ba7fcf4108bf",
+   "chars": 3973
+  },
+  {
+   "url": "https://samanhotelboutique.com/habitaciones/",
+   "sha256": "0b0692da5b6b5c41428592434708133907528c8bd03d8acebe43a7ab79d12f27",
+   "chars": 3371
+  },
+  {
+   "url": "https://samanhotelboutique.com/hotel/",
+   "sha256": "465dc2405da03f455a26cd8a6ad17b7615196774eeefd36b727fe9ea8a5cd41c",
+   "chars": 2414
+  },
+  {
+   "url": "https://samanhotelboutique.com/reservar/",
+   "sha256": "06e3731243290039438b137ce5ab5f9fb80d53de1a0f68c2db30d54a72896ac6",
+   "chars": 1103
+  }
+ ],
+ "other_pages_read": [
+  "https://samanhotelboutique.com",
+  "https://samanhotelboutique.com/alojamiento-feria-habitat-valencia/",
+  "https://samanhotelboutique.com/blog/",
+  "https://samanhotelboutique.com/como-desconectar-del-estres/",
+  "https://samanhotelboutique.com/el-tiempo/",
+  "https://samanhotelboutique.com/en/",
+  "https://samanhotelboutique.com/en/hotel/",
+  "https://samanhotelboutique.com/fr/",
+  "https://samanhotelboutique.com/golf/",
+  "https://samanhotelboutique.com/nautica/",
+  "https://samanhotelboutique.com/politica-de-cookies/",
+  "https://samanhotelboutique.com/politica-de-privacidad/",
+  "https://samanhotelboutique.com/que-es-bleisure-viajes-negocios/",
+  "https://samanhotelboutique.com/turismo/"
+ ]
+}

@@ -1,0 +1,813 @@
+{
+ "schema": "berawa-knowledge/1",
+ "project": "demo-saman-hotel-boutique-valencia",
+ "source_site": "https://samanhotelboutique.com/",
+ "source_read_at": "2026-10-29T02:07:00+01:00",
+ "note": "Respuestas solo con datos publicados en samanhotelboutique.com. Sin coincidencia: el asistente dice que no dispone de la informacion y ofrece contacto.",
+ "entries": [
+  {
+   "id": "K01",
+   "topic": "habitaciones",
+   "keys": {
+    "es": [
+     "tipos de",
+     "que habitaciones",
+     "cuantas habitaciones",
+     "suite",
+     "familiar",
+     "doble",
+     "individual",
+     "jacuzzi",
+     "hidromasaje",
+     "banera",
+     "capacidad",
+     "cuantas personas"
+    ],
+    "ca": [
+     "tipus d",
+     "quines habitacions",
+     "quantes habitacions",
+     "suite",
+     "familiar",
+     "doble",
+     "individual",
+     "jacuzzi",
+     "hidromassatge",
+     "banyera",
+     "capacitat",
+     "quantes persones"
+    ],
+    "en": [
+     "room types",
+     "types of",
+     "what rooms",
+     "how many rooms",
+     "suite",
+     "family",
+     "double",
+     "single",
+     "jacuzzi",
+     "hot tub",
+     "bathtub",
+     "capacity",
+     "how many guests"
+    ],
+    "fr": [
+     "types de",
+     "quelles chambres",
+     "combien de chambres",
+     "suite",
+     "familiale",
+     "double",
+     "individuelle",
+     "jacuzzi",
+     "baignoire",
+     "capacite",
+     "combien de personnes"
+    ]
+   },
+   "a": {
+    "es": "Tiene 33 habitaciones: dobles estándar, deluxe y superior (esta última para hasta 3 personas), 2 suites con bañera y una suite con bañera de hidromasaje, además de habitaciones para 3 y 4 personas. Algunas tienen acceso directo al jardín y a la piscina.",
+    "ca": "Té 33 habitacions: dobles estàndard, deluxe i superior (aquesta última per a fins a 3 persones), 2 suites amb banyera i una suite amb banyera d'hidromassatge, a més d'habitacions per a 3 i 4 persones. Algunes tenen accés directe al jardí i a la piscina.",
+    "en": "It has 33 rooms: standard, deluxe and superior doubles (the latter for up to 3 guests), 2 suites with a bathtub and one suite with a hot tub, plus rooms for 3 and 4 guests. Some have direct access to the garden and the pool.",
+    "fr": "Il compte 33 chambres : doubles standard, deluxe et supérieure (cette dernière pour 3 personnes au maximum), 2 suites avec baignoire et une suite avec baignoire balnéo, ainsi que des chambres pour 3 et 4 personnes. Certaines ont un accès direct au jardin et à la piscine."
+   },
+   "sources": [
+    {
+     "url": "https://samanhotelboutique.com/habitaciones/",
+     "quote": "disponemos de 33 habitaciones"
+    },
+    {
+     "url": "https://samanhotelboutique.com/habitaciones/",
+     "quote": "2 exclusivas suites con bañera y una espectacular suite con bañera de hidromasaje"
+    },
+    {
+     "url": "https://samanhotelboutique.com/habitaciones/",
+     "quote": "tienen capacidad para hasta 3 personas"
+    },
+    {
+     "url": "https://samanhotelboutique.com/habitaciones/",
+     "quote": "habitaciones con acceso directo al jardín"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K02",
+   "topic": "piscina y jardín",
+   "keys": {
+    "es": [
+     "piscina",
+     "jardin",
+     "toalla",
+     "balines"
+    ],
+    "ca": [
+     "piscina",
+     "jardi",
+     "tovallola",
+     "balines"
+    ],
+    "en": [
+     "pool",
+     "garden",
+     "towel",
+     "balinese"
+    ],
+    "fr": [
+     "piscine",
+     "jardin",
+     "serviette",
+     "balinais"
+    ]
+   },
+   "a": {
+    "es": "Tiene una piscina de estilo balinés y un jardín tropical. Su web indica que la piscina abre de 10:00 a 21:00 h durante la temporada y que las toallas se piden en recepción.",
+    "ca": "Té una piscina d'estil balinès i un jardí tropical. La seva web indica que la piscina obre de 10:00 a 21:00 h durant la temporada i que les tovalloles es demanen a recepció.",
+    "en": "It has a Balinese-style pool and a tropical garden. Their website says the pool is open from 10:00 to 21:00 during the season and that pool towels can be requested at reception.",
+    "fr": "Il dispose d'une piscine de style balinais et d'un jardin tropical. Leur site indique que la piscine est ouverte de 10:00 à 21:00 en saison et que les serviettes se demandent à la réception."
+   },
+   "sources": [
+    {
+     "url": "https://samanhotelboutique.com/habitaciones/",
+     "quote": "habitaciones con acceso directo al jardín y a nuestra piscina de estilo balinés"
+    },
+    {
+     "url": "https://samanhotelboutique.com/faq/",
+     "quote": "La piscina está abierta de 10:00 a 21:00 h durante la temporada"
+    },
+    {
+     "url": "https://samanhotelboutique.com/faq/",
+     "quote": "Puede solicitar toallas de piscina directamente en recepción"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K03",
+   "topic": "check-in y check-out",
+   "keys": {
+    "es": [
+     "check in",
+     "check out",
+     "checkin",
+     "checkout",
+     "hora de entrada",
+     "hora de salida"
+    ],
+    "ca": [
+     "check in",
+     "check out",
+     "checkin",
+     "checkout",
+     "hora d entrada",
+     "hora de sortida"
+    ],
+    "en": [
+     "check in",
+     "check out",
+     "checkin",
+     "checkout",
+     "arrival time",
+     "departure time"
+    ],
+    "fr": [
+     "check in",
+     "check out",
+     "checkin",
+     "checkout",
+     "heure d arrivee",
+     "heure de depart"
+    ]
+   },
+   "a": {
+    "es": "El check-in está disponible a partir de las 15:00 h y el check-out debe hacerse antes de las 12:00 h.",
+    "ca": "El check-in està disponible a partir de les 15:00 h i el check-out s'ha de fer abans de les 12:00 h.",
+    "en": "Check-in is available from 15:00 and check-out must be done before 12:00.",
+    "fr": "Le check-in est disponible à partir de 15:00 et le check-out doit se faire avant 12:00."
+   },
+   "sources": [
+    {
+     "url": "https://samanhotelboutique.com/faq/",
+     "quote": "El check-in está disponible a partir de las 15:00 h"
+    },
+    {
+     "url": "https://samanhotelboutique.com/faq/",
+     "quote": "El check-out debe realizarse antes de las 12:00 h"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K04",
+   "topic": "mascotas",
+   "keys": {
+    "es": [
+     "mascota",
+     "perro",
+     "gato",
+     "animal"
+    ],
+    "ca": [
+     "mascot",
+     "gos",
+     "gat",
+     "animal"
+    ],
+    "en": [
+     "pet",
+     "dog",
+     " cat ",
+     "animal"
+    ],
+    "fr": [
+     "animaux",
+     "chien",
+     "chat ",
+     "animal"
+    ]
+   },
+   "a": {
+    "es": "Su web indica que no se admiten mascotas en el hotel.",
+    "ca": "La seva web indica que no s'admeten mascotes a l'hotel.",
+    "en": "Their website says pets are not accepted at the hotel.",
+    "fr": "Leur site indique que les animaux ne sont pas admis dans l'hôtel."
+   },
+   "sources": [
+    {
+     "url": "https://samanhotelboutique.com/faq/",
+     "quote": "no se admiten mascotas en el hotel"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K05",
+   "topic": "parking",
+   "keys": {
+    "es": [
+     "parking",
+     "aparcar",
+     "aparcamiento",
+     "garaje",
+     "coche"
+    ],
+    "ca": [
+     "parking",
+     "pàrquing",
+     "parquing",
+     "aparcar",
+     "aparcament",
+     "garatge",
+     "cotxe"
+    ],
+    "en": [
+     "parking",
+     "park",
+     "garage",
+     "car "
+    ],
+    "fr": [
+     "parking",
+     "stationn",
+     "garage",
+     "voiture"
+    ]
+   },
+   "a": {
+    "es": "Tiene parking privado para clientes en la calle Industria 16, a 50 metros del hotel, con acceso de 7:30 a 21:30 h. Consulta el precio al reservar.",
+    "ca": "Té pàrquing privat per a clients al carrer Indústria 16, a 50 metres de l'hotel, amb accés de 7:30 a 21:30 h. Consulta el preu en reservar.",
+    "en": "It has private parking for guests at Calle Industria 16, 50 metres from the hotel, open for access from 7:30 to 21:30. Ask about the price when you book.",
+    "fr": "Il dispose d'un parking privé pour les clients calle Industria 16, à 50 mètres de l'hôtel, accessible de 7:30 à 21:30. Renseignez-vous sur le tarif lors de la réservation."
+   },
+   "sources": [
+    {
+     "url": "https://samanhotelboutique.com/faq/",
+     "quote": "disponemos de parking privado para nuestros clientes en la Calle Industria nº 16, a tan solo 50 metros del hotel"
+    },
+    {
+     "url": "https://samanhotelboutique.com/faq/",
+     "quote": "El horario de acceso es de 7:30 a 21:30 h"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K06",
+   "topic": "desayuno y Clavadito Bar",
+   "keys": {
+    "es": [
+     "desayuno",
+     "restaurante",
+     "clavadito",
+     "cocina",
+     "carta",
+     "menu",
+     "cenar",
+     "comer",
+     "gastrobar",
+     "buffet"
+    ],
+    "ca": [
+     "esmorzar",
+     "restaurant",
+     "clavadito",
+     "cuina",
+     "carta",
+     "menu",
+     "sopar",
+     "menjar",
+     "gastrobar",
+     "buffet"
+    ],
+    "en": [
+     "breakfast",
+     "restaurant",
+     "clavadito",
+     "cuisine",
+     "menu",
+     "dinner",
+     " eat",
+     "gastrobar",
+     "buffet"
+    ],
+    "fr": [
+     "petit dejeuner",
+     "restaurant",
+     "clavadito",
+     "cuisine",
+     "carte",
+     "menu",
+     "diner",
+     "manger",
+     "gastrobar",
+     "buffet"
+    ]
+   },
+   "a": {
+    "es": "El desayuno buffet se sirve de lunes a viernes de 7:30 a 10:30 h y sábados y domingos de 8:00 a 11:00 h. Clavadito Bar, dentro del hotel, ofrece cocina mediterránea con menú diario y carta.",
+    "ca": "L'esmorzar buffet es serveix de dilluns a divendres de 7:30 a 10:30 h i dissabtes i diumenges de 8:00 a 11:00 h. Clavadito Bar, dins de l'hotel, ofereix cuina mediterrània amb menú diari i carta.",
+    "en": "Buffet breakfast is served Monday to Friday from 7:30 to 10:30 and on Saturdays and Sundays from 8:00 to 11:00. Clavadito Bar, inside the hotel, offers Mediterranean cuisine with a daily menu and an à la carte menu.",
+    "fr": "Le petit-déjeuner buffet est servi du lundi au vendredi de 7:30 à 10:30 et les samedis et dimanches de 8:00 à 11:00. Le Clavadito Bar, dans l'hôtel, propose une cuisine méditerranéenne avec menu du jour et carte."
+   },
+   "sources": [
+    {
+     "url": "https://samanhotelboutique.com/faq/",
+     "quote": "De lunes a viernes: de 7:30 a 10:30 h"
+    },
+    {
+     "url": "https://samanhotelboutique.com/faq/",
+     "quote": "Sábados y domingos: de 8:00 a 11:00 h"
+    },
+    {
+     "url": "https://samanhotelboutique.com/faq/",
+     "quote": "El restaurante Clavadito Bar ofrece cocina mediterránea"
+    },
+    {
+     "url": "https://samanhotelboutique.com/faq/",
+     "quote": "Disponemos tanto de menú diario como de carta"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K07",
+   "topic": "ubicación y transporte",
+   "keys": {
+    "es": [
+     "donde",
+     "direccion",
+     "ubicacion",
+     "situado",
+     "mapa",
+     "llegar",
+     "como llego",
+     "metro",
+     "autobus",
+     "transporte",
+     "calle",
+     "playa"
+    ],
+    "ca": [
+     " on ",
+     "adreca",
+     "ubicacio",
+     "situat",
+     "mapa",
+     "arribar",
+     "com arribo",
+     "metro",
+     "autobus",
+     "transport",
+     "carrer",
+     "platja"
+    ],
+    "en": [
+     "where",
+     "address",
+     "location",
+     "located",
+     "map",
+     "get there",
+     "how do i get",
+     "metro",
+     "bus ",
+     "transport",
+     "street",
+     "beach"
+    ],
+    "fr": [
+     " ou est",
+     "adresse",
+     "situe",
+     "sur la carte",
+     "venir",
+     "comment arriver",
+     "metro",
+     "bus ",
+     "transport",
+     "rue",
+     "plage"
+    ]
+   },
+   "a": {
+    "es": "Está en la calle Industria 10-12, 46022 València, a medio camino entre la playa y la Ciudad de las Artes y las Ciencias. La estación de metro de Ayora está a 5 minutos a pie y hay varias paradas de autobús a 1 minuto.",
+    "ca": "És al carrer Indústria 10-12, 46022 València, a mig camí entre la platja i la Ciutat de les Arts i les Ciències. L'estació de metro d'Ayora és a 5 minuts a peu i hi ha diverses parades d'autobús a 1 minut.",
+    "en": "It is at Calle Industria 10-12, 46022 València, halfway between the beach and the City of Arts and Sciences. Ayora metro station is a 5-minute walk away and there are several bus stops 1 minute from the hotel.",
+    "fr": "Il est situé calle Industria 10-12, 46022 València, à mi-chemin entre la plage et la Cité des Arts et des Sciences. La station de métro Ayora est à 5 minutes à pied et plusieurs arrêts de bus sont à 1 minute de l'hôtel."
+   },
+   "sources": [
+    {
+     "url": "https://samanhotelboutique.com/faq/",
+     "quote": "a medio camino entre la playa y la Ciudad de las Artes y las Ciencias"
+    },
+    {
+     "url": "https://samanhotelboutique.com/faq/",
+     "quote": "Metro : la estación de Ayora está a tan solo 5 minutos a pie"
+    },
+    {
+     "url": "https://samanhotelboutique.com/faq/",
+     "quote": "varias paradas de autobús se encuentran a 1 minuto del hotel"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K08",
+   "topic": "reservar",
+   "keys": {
+    "es": [
+     "reserv",
+     "disponib",
+     "confirmame",
+     "libre",
+     "fechas",
+     "booking"
+    ],
+    "ca": [
+     "reserv",
+     "disponib",
+     "confirma m",
+     "lliure",
+     "dates",
+     "booking"
+    ],
+    "en": [
+     "book",
+     "reserv",
+     "availab",
+     "confirm",
+     "free room",
+     "dates"
+    ],
+    "fr": [
+     "reserv",
+     "disponib",
+     "confirmez",
+     "libre",
+     "dates",
+     "booking"
+    ]
+   },
+   "a": {
+    "es": "Su web dice que prepara su motor de reservas y que mientras tanto puedes escribir a recepcion@samanhotelboutique.com, llamar al +34 641 05 21 21 o reservar a través de Booking.com. Este asistente no confirma disponibilidad ni reservas.",
+    "ca": "La seva web diu que prepara el seu motor de reserves i que mentrestant pots escriure a recepcion@samanhotelboutique.com, trucar al +34 641 05 21 21 o reservar a través de Booking.com. Aquest assistent no confirma disponibilitat ni reserves.",
+    "en": "Their website says they are preparing their booking engine and meanwhile you can email recepcion@samanhotelboutique.com, call +34 641 05 21 21 or book through Booking.com. This assistant does not confirm availability or bookings.",
+    "fr": "Leur site indique qu'ils préparent leur moteur de réservation et qu'en attendant vous pouvez écrire à recepcion@samanhotelboutique.com, appeler le +34 641 05 21 21 ou réserver via Booking.com. Cet assistant ne confirme ni disponibilité ni réservation."
+   },
+   "sources": [
+    {
+     "url": "https://samanhotelboutique.com/reservar/",
+     "quote": "Estamos preparando nuestro motor de reservas"
+    },
+    {
+     "url": "https://samanhotelboutique.com/reservar/",
+     "quote": "puedes escribirnos a nuestro correo de reservas recepcion@samanhotelboutique.com"
+    },
+    {
+     "url": "https://samanhotelboutique.com/reservar/",
+     "quote": "También puedes reservar a través de Booking.com"
+    }
+   ],
+   "cta": true
+  },
+  {
+   "id": "K09",
+   "topic": "contacto",
+   "keys": {
+    "es": [
+     "telefono",
+     "llamar",
+     "correo",
+     "email",
+     "contacto",
+     "contactar",
+     "whatsapp"
+    ],
+    "ca": [
+     "telefon",
+     "trucar",
+     "correu",
+     "email",
+     "contacte",
+     "contactar",
+     "whatsapp"
+    ],
+    "en": [
+     "phone",
+     "call",
+     "email",
+     " mail",
+     "contact",
+     "whatsapp"
+    ],
+    "fr": [
+     "telephone",
+     "appeler",
+     "email",
+     " mail",
+     "contact",
+     "whatsapp"
+    ]
+   },
+   "a": {
+    "es": "Teléfono +34 641 05 21 21; correos info@samanhotelboutique.com y recepcion@samanhotelboutique.com. Clavadito Bar tiene su propio teléfono: 673 46 10 66.",
+    "ca": "Telèfon +34 641 05 21 21; correus info@samanhotelboutique.com i recepcion@samanhotelboutique.com. Clavadito Bar té el seu propi telèfon: 673 46 10 66.",
+    "en": "Phone +34 641 05 21 21; emails info@samanhotelboutique.com and recepcion@samanhotelboutique.com. Clavadito Bar has its own phone: 673 46 10 66.",
+    "fr": "Téléphone +34 641 05 21 21 ; e-mails info@samanhotelboutique.com et recepcion@samanhotelboutique.com. Le Clavadito Bar a son propre téléphone : 673 46 10 66."
+   },
+   "sources": [
+    {
+     "url": "https://samanhotelboutique.com/",
+     "quote": "+34 641 05 21 21"
+    },
+    {
+     "url": "https://samanhotelboutique.com/",
+     "quote": "info@samanhotelboutique.com"
+    },
+    {
+     "url": "https://samanhotelboutique.com/reservar/",
+     "quote": "recepcion@samanhotelboutique.com"
+    },
+    {
+     "url": "https://samanhotelboutique.com/clavaditobar/",
+     "quote": "673 46 10 66"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K10",
+   "topic": "titular",
+   "keys": {
+    "es": [
+     "titular",
+     "propietario",
+     "razon social",
+     "cif",
+     "quien es"
+    ],
+    "ca": [
+     "titular",
+     "propietari",
+     "rao social",
+     "cif",
+     "qui es"
+    ],
+    "en": [
+     "owner",
+     "owns",
+     "legal name",
+     "cif",
+     "who is"
+    ],
+    "fr": [
+     "titulaire",
+     "proprietaire",
+     "raison sociale",
+     "cif",
+     "qui est"
+    ]
+   },
+   "a": {
+    "es": "Su aviso legal indica que el titular de la web es EL 10 DE LA INDUSTRIA DE VALENCIA S.L (CIF B70668975), inscrita en el Registro Mercantil de Valencia.",
+    "ca": "El seu avís legal indica que el titular de la web és EL 10 DE LA INDUSTRIA DE VALENCIA S.L (CIF B70668975), inscrita al Registre Mercantil de València.",
+    "en": "Their legal notice says the website owner is EL 10 DE LA INDUSTRIA DE VALENCIA S.L (CIF B70668975), registered in the Valencia Mercantile Registry.",
+    "fr": "Leurs mentions légales indiquent que le titulaire du site est EL 10 DE LA INDUSTRIA DE VALENCIA S.L (CIF B70668975), inscrite au Registre du commerce de Valence."
+   },
+   "sources": [
+    {
+     "url": "https://samanhotelboutique.com/aviso-legal/",
+     "quote": "EL 10 DE LA INDUSTRIA DE VALENCIA S.L, número de CIF B70668975"
+    },
+    {
+     "url": "https://samanhotelboutique.com/aviso-legal/",
+     "quote": "Inscrita en el Registro Mercantil de Valencia"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K11",
+   "topic": "eventos y grupos",
+   "keys": {
+    "es": [
+     "evento",
+     "boda",
+     "celebracion",
+     "empresa",
+     "grupo",
+     "team building",
+     "incentivo",
+     "negocio",
+     "reunion"
+    ],
+    "ca": [
+     "esdeveniment",
+     "casament",
+     "celebracio",
+     "empresa",
+     "grup",
+     "team building",
+     "incentiu",
+     "negoci",
+     "reunio"
+    ],
+    "en": [
+     "event",
+     "wedding",
+     "celebration",
+     "business",
+     "group",
+     "team building",
+     "incentive",
+     "meeting"
+    ],
+    "fr": [
+     "evenement",
+     "mariage",
+     "celebration",
+     "entreprise",
+     "groupe",
+     "team building",
+     "incentive",
+     "reunion",
+     "affaires"
+    ]
+   },
+   "a": {
+    "es": "Su web ofrece el hotel para eventos sociales y corporativos (jardín con piscina balinesa y lobby), y condiciones para grupos y viajes de empresa. Para grupos, piden enviar una solicitud de reserva.",
+    "ca": "La seva web ofereix l'hotel per a esdeveniments socials i corporatius (jardí amb piscina balinesa i lobby), i condicions per a grups i viatges d'empresa. Per a grups, demanen enviar una sol·licitud de reserva.",
+    "en": "Their website offers the hotel for social and corporate events (garden with Balinese pool and lobby), and terms for groups and business trips. For groups, they ask you to send a booking request.",
+    "fr": "Leur site propose l'hôtel pour des événements sociaux et d'entreprise (jardin avec piscine balinaise et lobby), et des conditions pour groupes et voyages d'affaires. Pour les groupes, ils demandent d'envoyer une demande de réservation."
+   },
+   "sources": [
+    {
+     "url": "https://samanhotelboutique.com/eventos/",
+     "quote": "ofrecemos el escenario perfecto para tus eventos sociales y corporativos"
+    },
+    {
+     "url": "https://samanhotelboutique.com/eventos/",
+     "quote": "Nuestro jardín exterior es ideal cócteles, cenas y recepciones"
+    },
+    {
+     "url": "https://samanhotelboutique.com/empresas/",
+     "quote": "Envíanos tu solicitud de reserva para grupos"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K12",
+   "topic": "limpieza y servicios en habitación",
+   "keys": {
+    "es": [
+     "limpieza",
+     "plancha",
+     "amenities",
+     "bicicleta",
+     "alquiler"
+    ],
+    "ca": [
+     "neteja",
+     "planxa",
+     "amenities",
+     "bicicleta",
+     "lloguer"
+    ],
+    "en": [
+     "cleaning",
+     "housekeeping",
+     "iron",
+     "amenities",
+     "bike",
+     "bicycle",
+     "rental"
+    ],
+    "fr": [
+     "menage",
+     "nettoyage",
+     "fer a repasser",
+     "amenities",
+     "velo",
+     "location"
+    ]
+   },
+   "a": {
+    "es": "La limpieza se hace a diario de 10:00 a 15:00 h. La plancha está disponible bajo demanda en recepción y hay servicio de alquiler de bicicletas (consulta disponibilidad en recepción).",
+    "ca": "La neteja es fa a diari de 10:00 a 15:00 h. La planxa està disponible sota demanda a recepció i hi ha servei de lloguer de bicicletes (consulta disponibilitat a recepció).",
+    "en": "Cleaning is done daily from 10:00 to 15:00. An iron is available on request at reception and there is a bicycle rental service (ask reception about availability).",
+    "fr": "Le ménage se fait tous les jours de 10:00 à 15:00. Un fer à repasser est disponible sur demande à la réception et il y a un service de location de vélos (renseignez-vous à la réception)."
+   },
+   "sources": [
+    {
+     "url": "https://samanhotelboutique.com/faq/",
+     "quote": "El servicio de limpieza se realiza a diario en horario de 10:00 a 15:00 h"
+    },
+    {
+     "url": "https://samanhotelboutique.com/faq/",
+     "quote": "La plancha está disponible bajo demanda"
+    },
+    {
+     "url": "https://samanhotelboutique.com/faq/",
+     "quote": "disponemos de servicio de alquiler de bicicletas"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K13",
+   "topic": "inauguración e historia",
+   "keys": {
+    "es": [
+     "inaugur",
+     "historia",
+     "chimenea",
+     "cocodrilo",
+     "abrio",
+     "apertura"
+    ],
+    "ca": [
+     "inaugur",
+     "historia",
+     "xemeneia",
+     "cocodril",
+     "va obrir",
+     "obertura"
+    ],
+    "en": [
+     "inaugur",
+     "opened",
+     "history",
+     "chimney",
+     "crocodile"
+    ],
+    "fr": [
+     "inaugur",
+     "histoire",
+     "cheminee",
+     "crocodile",
+     "ouvert",
+     "ouverture"
+    ]
+   },
+   "a": {
+    "es": "Su web indica «Inaugurado 5 de agosto 2024». El hotel conserva dos icónicas chimeneas industriales que han definido el paisaje de Valencia.",
+    "ca": "La seva web indica «Inaugurat el 5 d'agost de 2024». L'hotel conserva dues icòniques xemeneies industrials que han definit el paisatge de València.",
+    "en": "Their website says \"Inaugurado 5 de agosto 2024\" (opened 5 August 2024). The hotel keeps two iconic industrial chimneys that have defined the Valencia skyline.",
+    "fr": "Leur site indique « Inaugurado 5 de agosto 2024 » (inauguré le 5 août 2024). L'hôtel conserve deux cheminées industrielles emblématiques qui ont défini le paysage de València."
+   },
+   "sources": [
+    {
+     "url": "https://samanhotelboutique.com/",
+     "quote": "Inaugurado 5 de agosto 2024"
+    },
+    {
+     "url": "https://samanhotelboutique.com/hotel/",
+     "quote": "dos icónicas chimeneas industriales que han definido el paisaje de Valencia"
+    }
+   ],
+   "cta": false
+  }
+ ]
+}
